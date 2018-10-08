@@ -1,5 +1,5 @@
 ; Homework Assignment #2
-; Counting and Moving values
+; Counting and Moving Values
 ; Assembly for Motorola 68000
 
 		ORG 	$2000       ;Place the origin at $2000
